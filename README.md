@@ -76,6 +76,7 @@ The conference proceedings will be published electronically. After the conferenc
 ## Call for Industrial User Presentations
 
 On Monday it is planned to have Industrial User Presentations related to existing and possibly new Modelica Association projects. 
+For FMI, it is planned to group these presentations in an "FMI user meeting".
 You are encouraged to submit an extended abstract of 1-2 pages for a presentation-only contribution. Please see the Call-for-Papers page for further information about the submission and/or application process. The abstracts will be peer-reviewed by experts, but no papers will be published in the conference proceedings.
 
 Please note that purely tool-related presentations are not permitted for these application-oriented presentations, they should be covered by vendor sessions.
